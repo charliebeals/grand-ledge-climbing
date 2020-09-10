@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+    <!--Import base image-->
+    <image x="10" y="10" width="756" height="1008" href="peek_a_boo_img_base.png"/>
+    <!--Starting point-->
+    <line x1="445" y1="980" x2="495" y2="980" style="stroke:aqua;stroke-width:4" />
+    <line x1="470" y1="955" x2="470" y2="1005" style="stroke:aqua;stroke-width:4" />
+    <!--Route-->
+    <path d="M 465 970 L 400 830 L 380 720 L 258 695 L 287 450 L 270 400 L 295 277 L 294 162" style="stroke:yellow;stroke-width:3;fill-opacity: 0;"/>
+    <!--Good holds-->
+    <circle cx="20" cy="20" r="20" stroke="Lime" stroke-width="2" fill="Green" fill-opacity=" 0" transform="translate(360 955)"/> 
+    <circle cx="20" cy="20" r="20" stroke="Lime" stroke-width="2" fill="Green" fill-opacity=" 0" transform="translate(410 910)"/>
+    <circle cx="20" cy="20" r="20" stroke="Lime" stroke-width="2" fill="Green" fill-opacity=" 0" transform="translate(120 660)"/>
+    <circle cx="20" cy="20" r="20" stroke="Lime" stroke-width="2" fill="Green" fill-opacity=" 0" transform="translate(360 560)"/>
+    <!--Bad holds-->
+    <circle cx="20" cy="20" r="20" stroke="Red" stroke-width="2" fill="Red" fill-opacity=" 0" transform="translate(490 890)"/>
+    <circle cx="20" cy="20" r="20" stroke="Red" stroke-width="2" fill="Red" fill-opacity=" 0" transform="translate(490 770)"/>
+    <circle cx="20" cy="20" r="20" stroke="Red" stroke-width="2" fill="Red" fill-opacity=" 0" transform="translate(430 440)"/>
+    <!--Top-->
+    <line x1="250" y1="125" x2="300" y2="125" style="stroke:lime;stroke-width:4" />
+    <line x1="275" y1="100" x2="275" y2="150" style="stroke:lime;stroke-width:4" />
+</svg>
